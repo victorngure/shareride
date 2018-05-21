@@ -12,7 +12,7 @@ include('auth.php');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>meWriter</title>
+    <title>Shareride</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
