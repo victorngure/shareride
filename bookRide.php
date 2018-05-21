@@ -32,4 +32,5 @@ function sendEmail(){
     $from = "victorngure@gmx.com";
     $headers = "From: " . $from;
     mail($to,$subject,$txt,$headers);
+}
 ?>
